@@ -1,4 +1,6 @@
 # Homework 1
+The goal of this homework is getting familiar with python and the concepts of Statistical Inference by comparing three different policies.
+
 Think of a pharmaceutical company that has produced two drugs with different formulas to reduce the blood pressure level. For clinical testing, three doctors prescribe these drugs for 100 volunteers with emergency conditions by using three different strategies (explained below) to compare effectiveness of these drugs.
 - Doctor A: Win-Stay Lose-Shift (WSLS) Strategy with P(stay|win)=0.8, P(shift|lose)=0.7
 - Doctor B: Fully Random Strategy
