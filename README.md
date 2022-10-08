@@ -1,2 +1,2 @@
 # intro-rl
-This repository contains Reinforcement Learning course projects
+This repository contains Reinforcement Learning course projects...
